@@ -10,5 +10,5 @@ package oop2016.contest1.gruppoXX;
  * @author desio
  */
 public class NewClass {
-    
+    private String hello;
 }
