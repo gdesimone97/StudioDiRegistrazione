@@ -26,5 +26,8 @@ public class TestPerson {
             System.out.println("La persone sono coetanee");
 
     }
-
+        
+        public void stampa() {
+            System.out.println("Alfonso è gay!");
+        }
 }
