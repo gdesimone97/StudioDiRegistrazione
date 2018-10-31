@@ -10,5 +10,7 @@ package oop2016.contest1.gruppoXX;
  * @author fonzdm
  */
 public class FileDelPorcoDDIO {
-    
+    public void Stampa(){
+        System.out.println("Fonz gay");
+    }
 }
