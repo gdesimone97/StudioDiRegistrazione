@@ -10,5 +10,5 @@ package oop2016.contest1.gruppoXX;
  * @author super
  */
 public class PUBGINO_PUNTOINTERROGATIVO {
-    
+    no
 }
