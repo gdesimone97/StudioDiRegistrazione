@@ -30,4 +30,8 @@ public class TestPerson {
         public void stampa() {
             System.out.println("Alfonso è gay!");
         }
+        
+        public void stampa2() {
+            System.out.println("Anche Mariano è gay");
+        }
 }
