@@ -32,6 +32,6 @@ public class TestPerson {
         }
         
         public void stampa2() {
-            System.out.println("Anche Mariano è gay");
+            System.out.println("Anche Gennaro è gay");
         }
 }
